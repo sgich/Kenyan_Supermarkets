@@ -32,6 +32,9 @@ The hypothesis chosen is based on the general view that most customers in Kenya 
 ## _Authors and Acknowledgment_ ##
 sgich
 
+## Links
+Tableau: https://public.tableau.com/views/KenyanSupermarkets/KenyanSupermarkets?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link
+
 
 ## License
 MIT © sgich
