@@ -27,7 +27,7 @@ The dataset, through Exploratory Data Analysis, will be used to identify pattern
 
 
 ## _Motivation_ ##
-The hypothesis chosen is based on the general view that most customers in Kenya shop for food stuffs either in small or open air markets as compared to chain stores which tend to be found in urban centres as compared to majority of the population which resides in the rural setting.
+The hypothesis chosen is based on the general view that most customers in Kenya shop for food either in small or open air markets as compared to chain stores which tend to be found in urban centres whereas the majority of the population resides in the rural setting.
 
 ## _Authors and Acknowledgment_ ##
 sgich
